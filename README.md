@@ -1,2 +1,2 @@
 # LCQ1
-我的首个仓库（My first hub)
+我的首个仓库（My first repostory)
